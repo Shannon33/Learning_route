@@ -11,4 +11,5 @@
 
 ### PCA_1.ipynb是将数据集莺尾花用pca进行降维，看看最后的效果。  
 ### sklearn_pca.ipynb是使用现成的pca工具直接对莺尾花数据集进行降维。  
-### face_recognition.ipynb是人脸数据集实战，做一个人脸识别数据集的降维，看看一些降维的细节。
+### face_recognition.ipynb是人脸数据集实战，做一个人脸识别数据集的降维，看看一些降维的细节。  
+### pca_denoise.ipynb是使用pca对手写数字数据集进行降燥。 
